@@ -1,0 +1,2 @@
+esquecendo-me que uma branch é uma cópia exata do ramo principal (que possui todos as informações/dados contidas em  determinada versão do Trunk) 
+,após criar a branch feature1  erroneamente  criei também uma cópia do arquivo index,peço que desconsidere essa cópia . 
